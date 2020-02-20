@@ -1,0 +1,39 @@
+#we created test.json file manually and paste the result occured in finaljson object
+
+
+
+{
+	"data": [
+		{
+			"BookName": "selenium",
+			"purchasedDate": "2020-02-19",
+			"Amount": 350,
+			"Location": "Africa"
+		},
+		{
+			"BookName": "java",
+			"purchasedDate": "2020-02-19",
+			"Amount": 200,
+			"Location": "Africa"
+		},
+		{
+			"BookName": "python",
+			"purchasedDate": "2020-02-19",
+			"Amount": 250,
+			"Location": "Asia"
+		},
+		{
+			"BookName": "Jmeter",
+			"purchasedDate": "2020-02-19",
+			"Amount": 150,
+			"Location": "Asia"
+		},
+		{
+			"BookName": "c#",
+			"purchasedDate": "2020-02-19",
+			"Amount": 300,
+			"Location": "Asia"
+		}
+	]
+}
+
